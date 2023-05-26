@@ -3,7 +3,7 @@ import Header from './components/HomePage/Header';
 
 const App = () => {
     return (
-        <div className=''>
+        <div className=' 2xl: w-[1440px] m-auto'>
             <Header />
         </div>
     );

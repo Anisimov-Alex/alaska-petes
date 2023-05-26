@@ -7,7 +7,7 @@ import StarButton from '../ui/StarButton/StarButton';
 
 const Header = () => {
     return (
-        <div className='w-[1320px] h-[1017px] relative m-auto'>
+        <div className='w-[1320px] h-[1017px] relative m-auto pl-8'>
             <Logo />
             <div className=' relative'>
                 <img
@@ -22,7 +22,7 @@ const Header = () => {
                 <h1 className=' font-drukCondTrial text-darkRed text-[300px] uppercase absolute top-0 z-20'>
                     Alaska pete's
                 </h1>
-                <h3 className=' font-drukCondTrial text-primary text-[32px] leading-[94%] absolute top-0 right-[354px]'>
+                <h3 className=' font-drukTextTrial text-primary text-[32px] leading-[94%] absolute top-0 right-[354px] font-medium'>
                     A Casual BBQ, Steak &<br />
                     Seafood House
                 </h3>
