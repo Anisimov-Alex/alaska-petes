@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/alaska-petes/static/css/main.b9c6baef.css",
-    "main.js": "/alaska-petes/static/js/main.46a9b1bf.js",
+    "main.js": "/alaska-petes/static/js/main.0f27ce91.js",
     "static/js/787.b17a5566.chunk.js": "/alaska-petes/static/js/787.b17a5566.chunk.js",
     "static/media/pexels-luis-quintero-1857732.png": "/alaska-petes/static/media/pexels-luis-quintero-1857732.c1927632741df217517d.png",
     "static/media/pexels-photo-4551907.webp": "/alaska-petes/static/media/pexels-photo-4551907.edc45d2453eb87e52f44.webp",
     "static/media/plate.svg": "/alaska-petes/static/media/plate.452ad62fbf67de0817ac240f18dbb35d.svg",
     "index.html": "/alaska-petes/index.html",
     "main.b9c6baef.css.map": "/alaska-petes/static/css/main.b9c6baef.css.map",
-    "main.46a9b1bf.js.map": "/alaska-petes/static/js/main.46a9b1bf.js.map",
+    "main.0f27ce91.js.map": "/alaska-petes/static/js/main.0f27ce91.js.map",
     "787.b17a5566.chunk.js.map": "/alaska-petes/static/js/787.b17a5566.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9c6baef.css",
-    "static/js/main.46a9b1bf.js"
+    "static/js/main.0f27ce91.js"
   ]
 }
