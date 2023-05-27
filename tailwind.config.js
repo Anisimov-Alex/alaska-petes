@@ -5,6 +5,7 @@ module.exports = {
         fontFamily: {
             drukCondTrial: ['Druk Cond Trial', 'sans-serif'],
             drukTextTrial: ['Druk Text Trial', 'sans-serif'],
+            lora: ['Lora', 'sans-serif'],
         },
         extend: {
             colors: {

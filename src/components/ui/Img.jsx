@@ -1,14 +1,15 @@
 import React from 'react';
 
-const Img = ({ image, alt = 'picture', width, className }) => {
+const Img = ({ image, alt = 'picture', className }) => {
     return (
-        <div className={` rounded-3xl w-fit mx-auto ${className}`}>
+        <div
+            className={`rounded-3xl border-darkRed bg-darkRed border-8 object-contain ${className}`}
+        >
             <img
-                className={`rounded-3xl w-[${width}]`}
+                className={`rounded-2xl object-cover w-full h-full`}
                 src={image}
                 alt={alt}
             />
-            <div className=' absolute w-[100%] h-[100%] top-0 rounded-3xl shadow-[0_0_0_6px_darkRed]'></div>
         </div>
     );
 };
