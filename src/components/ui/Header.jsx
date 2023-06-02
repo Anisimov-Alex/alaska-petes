@@ -14,6 +14,7 @@ const Header = () => {
                     <img
                         src={logo}
                         className=' h-min align-middle m-auto mr-1'
+                        alt='logo'
                     />
                     <span>Pete's</span>
                 </NavLink>
